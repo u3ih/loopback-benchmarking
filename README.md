@@ -33,3 +33,7 @@ autocannon -t10 -c1000 -d10 http://localhost:3000/ping
 - With @service: go to the ping.controller file, uncomment all lines with @service, rerun the project, and test.
 
 - With @inject: go to the ping.controller file, uncomment all lines with @inject, rerun the project, and test.
+
+## Issue report
+
+[10529](https://github.com/loopbackio/loopback-next/issues/10529)
